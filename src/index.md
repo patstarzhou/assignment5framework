@@ -208,9 +208,6 @@ function sugarHistogram(data, {width}) {
 
 Cereals with higher ratings favor higher fiber levels while disfavoring high sugar or high calorie levels. These were the only three nutritional factors that had a clear relationship with consumer ratings.  
 
-<div class="repo-callout">
-  Replace this with your public GitHub repository link before submission: <a href="https://github.com/YOUR-USERNAME/YOUR-REPO">Project repository</a>.
-</div>
 
 <style>
 .subtitle {
